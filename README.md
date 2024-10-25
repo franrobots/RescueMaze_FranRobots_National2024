@@ -8,3 +8,7 @@ This repository is dedicated to organizing and centralizing documents, pictures,
 * [João Ribeiro](https://www.instagram.com/jaotavin/) <br>
 * [Fernanda Lima](https://www.instagram.com/ferdilima_/) <br>
 * [Guilherme Canteiro](https://www.instagram.com/guilhermebcanteiro/) <br>
+
+<p align="center">
+<img width="300" alt="TeamMembers" src="" /p>
+<p align="center">  <strong> Team Members </strong> </p>
