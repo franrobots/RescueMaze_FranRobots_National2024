@@ -1,7 +1,7 @@
 # RescueMaze_FranRobots_National2024
 🌎 Ready to face the exciting challenges of the Rescue Maze competition at RoboCup Junior! <br>
 
-This repository is dedicated to organizing and centralizing documents, pictures, and files related to the 2024 Rescue Maze competition from RoboCup Junior, in [Goiania, BR](https://en.wikipedia.org/wiki/Eindhoven).
+This repository is dedicated to organizing and centralizing documents, pictures, and files related to the 2024 Rescue Maze competition from RoboCup Junior, in [Goiania, BR](https://pt.wikipedia.org/wiki/Goi%C3%A2nia).
 
 **Team Members:**
 * [Arthur Mendes](https://www.instagram.com/arthurmlopezzz/) <br>
