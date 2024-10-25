@@ -6,7 +6,7 @@ Included here are the documents, photos, and the code used in the robot. <br>
 <br>
 
 **Authors:**
-* [Eduardo Righetto](https://www.instagram.com/eduardorimazaro/) <br>
+* [João Ribeiro](https://www.instagram.com/jaotavin/) <br>
 <br>
 
 > 📺 The programming utilizes C++ to control the robot's movement and Python to process images. <br> <br>
