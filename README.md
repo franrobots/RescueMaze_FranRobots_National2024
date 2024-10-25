@@ -10,5 +10,5 @@ This repository is dedicated to organizing and centralizing documents, pictures,
 * [Guilherme Canteiro](https://www.instagram.com/guilhermebcanteiro/) <br>
 
 <p align="center">
-<img width="300" alt="TeamMembers" src="" /p>
+<img width="300" alt="TeamMembers" src="https://github.com/user-attachments/assets/69111c83-8797-412f-a43a-4de36eb7ffb8" /p>
 <p align="center">  <strong> Team Members </strong> </p>
